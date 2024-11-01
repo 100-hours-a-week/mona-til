@@ -10,4 +10,4 @@
 
 24.10.31 REST API ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Oct/2024-10-31.md))
 
-24.11.01 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Oct/2024-11-01.md))
+24.11.01 콜백함수 Async/Await ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Nov/2024-11-01.md))
