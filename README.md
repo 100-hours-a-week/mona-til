@@ -9,3 +9,5 @@
 24.10.30 JS 기능 적용 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Oct/2024-10-30.md))
 
 24.10.31 REST API ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Oct/2024-10-31.md))
+
+24.11.01 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Oct/2024-11-01.md))
