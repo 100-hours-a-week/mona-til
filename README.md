@@ -2,6 +2,10 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 3째주, 5주차] :
+
+24.11.19 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Nov/2024-11-19.md))
+
 ### [11월 2째주, 4주차] :
 
 24.11.15 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Nov/2024-11-15.md))
