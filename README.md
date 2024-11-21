@@ -4,6 +4,8 @@
 
 ### [11월 3째주, 5주차] :
 
+24.11.21 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Nov/2024-11-21.md))
+
 24.11.20 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Nov/2024-11-20.md))
 
 24.11.19 ([🐹](https://github.com/100-hours-a-week/mona-til/blob/main/Nov/2024-11-19.md))
